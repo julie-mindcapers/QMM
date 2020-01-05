@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QMM", "QMM.csproj", "{F356A647-8AB2-45C2-8BAB-7714B9933514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F356A647-8AB2-45C2-8BAB-7714B9933514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F356A647-8AB2-45C2-8BAB-7714B9933514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F356A647-8AB2-45C2-8BAB-7714B9933514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F356A647-8AB2-45C2-8BAB-7714B9933514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C751DBD-DFB1-4202-81ED-DC8C3844A802}
+	EndGlobalSection
+EndGlobal

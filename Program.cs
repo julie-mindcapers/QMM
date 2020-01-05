@@ -39,7 +39,11 @@ namespace QMM
             string response = Console.ReadLine().ToLower();
             response = response.Trim();
             response = response.Substring(0,1);
-            if ("y" == response) return false;
+            if ("y" == response)
+            {
+                Console.WriteLine("------------------------------------------------------------------------");
+                return false;
+            }
 
             return true;
         }

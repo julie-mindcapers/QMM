@@ -52,7 +52,9 @@ namespace QMM
                 int digit = (int)(Math.Floor((mRandom.NextDouble() * (double)(ANSWER_MAX_DIGIT - ANSWER_MIN_DIGIT)) + 0.5)) + 1;
                 TheAnswer += digit;
             }
-            Console.WriteLine(TheAnswer.ToString());
+
+            // Good old printf debugging ... remove before release
+            // Console.WriteLine(TheAnswer.ToString());
         }
 
         private void Play()
